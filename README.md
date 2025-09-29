@@ -26,6 +26,5 @@ python ImageReading.py resize
 ```bash
 python mini_photoshop/main.py
 ```
-### (a)open file
-### (b)log / gamma
-### (c)reset / saved
+- Function
+16516516516
