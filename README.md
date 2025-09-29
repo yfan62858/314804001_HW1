@@ -20,10 +20,12 @@ python ImageReading.py xform
 
 ### (c) Scaling (Nearest / Bilinear)
 ```bash
-python ImageReading.py resize data/baboon.bmp --suite
+python ImageReading.py resize
 ```
 ## 3) GUI
 ```bash
 python mini_photoshop/main.py
 ```
-###
+### (a)open file
+### (b)log / gamma
+### (c)reset / saved
