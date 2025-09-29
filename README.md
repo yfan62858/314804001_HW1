@@ -23,8 +23,10 @@ python ImageReading.py xform
 python ImageReading.py resize
 ```
 
-GUI is contained in a single script: `mini_photoshop.py`.
 ## 3) GUI
+
+GUI is contained in a single script: `mini_photoshop.py`.
+
 ```bash
 python mini_photoshop/main.py
 ```
