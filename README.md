@@ -26,3 +26,4 @@ python ImageReading.py resize data/baboon.bmp --suite
 ```bash
 python mini_photoshop/main.py
 ```
+###
