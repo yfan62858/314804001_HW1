@@ -26,7 +26,7 @@ python ImageReading.py resize
 ```bash
 python mini_photoshop/main.py
 ```
-**Function
+** Function
 - Open file (bmp / raw)
 - Save as BMP
 - Image enhancement toolkit (log / gamma / negative / Curve)
