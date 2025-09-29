@@ -22,3 +22,7 @@ python ImageReading.py xform
 ```bash
 python ImageReading.py resize data/baboon.bmp --suite
 ```
+## 3) GUI
+```bash
+python mini_photoshop/main.py
+```
